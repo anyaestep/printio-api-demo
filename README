@@ -1,0 +1,5 @@
+# Summary
+A template project - java API on top of a third party API
+
+# Run
+mvn clean compile jetty:run
